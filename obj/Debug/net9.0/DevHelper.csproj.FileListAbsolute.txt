@@ -1,0 +1,14 @@
+C:\Users\jrmunoz\Desktop\DevHelper\bin\Debug\net9.0\DevHelper.exe
+C:\Users\jrmunoz\Desktop\DevHelper\bin\Debug\net9.0\DevHelper.deps.json
+C:\Users\jrmunoz\Desktop\DevHelper\bin\Debug\net9.0\DevHelper.runtimeconfig.json
+C:\Users\jrmunoz\Desktop\DevHelper\bin\Debug\net9.0\DevHelper.dll
+C:\Users\jrmunoz\Desktop\DevHelper\bin\Debug\net9.0\DevHelper.pdb
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\DevHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\DevHelper.AssemblyInfoInputs.cache
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\DevHelper.AssemblyInfo.cs
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\DevHelper.csproj.CoreCompileInputs.cache
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\DevHelper.dll
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\refint\DevHelper.dll
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\DevHelper.pdb
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\DevHelper.genruntimeconfig.cache
+C:\Users\jrmunoz\Desktop\DevHelper\obj\Debug\net9.0\ref\DevHelper.dll
